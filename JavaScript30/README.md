@@ -6,3 +6,4 @@ A Repo for this 30 day Course...
 Day 1 - JS Drum Kit &check; <br>
 Day 2 - CSS + JS Clock &check; <br>
 Day 3 - CSS Variables &amp; JS <br>
+Day 4 - Array Cardio Day 1 <br>
