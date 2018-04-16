@@ -1,3 +1,3 @@
 # Wes-Bos-Courses
 A Repo for Wes Bos Courses...<br>
-https://wesbos.com/courses/
+Find his courses: (https://wesbos.com/courses/)
